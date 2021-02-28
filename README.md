@@ -1,6 +1,37 @@
 
 #  ReactMediaGallery
 
+## Demo
+![](https://raw.githubusercontent.com/nathan-hh/SwiftyMediaGallery/master/images/example4.gif)
+![](https://raw.githubusercontent.com/nathan-hh/SwiftyMediaGallery/master/images/example1.gif)
+![](https://raw.githubusercontent.com/nathan-hh/SwiftyMediaGallery/master/images/example3.gif)
+
+## Requirements
+- [X] 📱 iOS 13 or later
+
+## Table of Contents
+
+- [Description](#description)
+- [Usage](#usage)
+  - [Advanced](#advanced)
+- [Installation](#installation)
+
+## Description
+
+Showing images and videos in an application is a requirement these days in many apps,
+after strageling finding a good library who do it same as the native iOS gallery i've decided to come with a solution myself and help others.
+with `ReactMediaGallery` it is very easy to implement.
+The library comes with a bunch of built-in features:
+
+- [x] Asynchronous images downloading
+- [x] Automatic reprioritizing images downloading - last requests will be on higher so user will wait less
+- [x] Rendering and decoding images on the global thread (default iOS do it on the Main)
+- [x] Automatic disk / Memory cache
+- [x] Navigation Image Transition animation
+- [x] Follow back current image index
+- [x] Supports images / videos
+- [x] Automatic generating videos tumbnails if needed
+
 ## Getting started
 
 `$ npm install react-media-gallery --save`
