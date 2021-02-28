@@ -1,13 +1,13 @@
 
-# react-native-react-media-gallery
+#  ReactMediaGallery
 
 ## Getting started
 
-`$ npm install react-native-react-media-gallery --save`
+`$ npm install react-media-gallery --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-react-media-gallery`
+`$ react-native link react-media-gallery`
 
 ### Manual installation
 
