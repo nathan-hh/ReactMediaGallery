@@ -1,6 +1,6 @@
 
 #  ReactMediaGallery
-
+ 
 ## Demo
 ![](https://raw.githubusercontent.com/nathan-hh/SwiftyMediaGallery/master/images/example4.gif)
 ![](https://raw.githubusercontent.com/nathan-hh/SwiftyMediaGallery/master/images/example1.gif)
